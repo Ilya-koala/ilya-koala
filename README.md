@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello, I'm Koala Ilya
+ 
+### I'm a junior Data Scientist
 
-<!--
-**Ilya-koala/ilya-koala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### At the moment I am fond of creating chat bots in telegram
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills and Tools
+- Python
+- Sql
+- Pandas
+- Numpy
+- PyTorch
+---
+
+### My pet-projectы
+ - 
+ - 
+ -
+ -
+ 
