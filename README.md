@@ -12,6 +12,7 @@
 - Pandas
 - Numpy
 - PyTorch
+- Aiogram
 ---
 
 ### My pet-projectы
@@ -19,8 +20,3 @@
  - 
  -
  -
- 
-### My links
- - [Telegram]
-
-[Telegram] : "https://t.me/Justift"
