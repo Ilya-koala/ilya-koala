@@ -20,3 +20,8 @@
  - 
  -
  
+ ---
+ ### Links
+ - My telegram channel https://t.me/allaboutpython
+ - My telegram account https://t.me/pdsp0
+ - My kaggle account https://www.kaggle.com/ilyakoala
