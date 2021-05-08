@@ -2,7 +2,6 @@
 
 ---
 ### I am interested in the development of tg-bots and the field of Data Science
-### But now im noob in these two areas
 ### Welcome to my gihub account!
 ---
 
