@@ -11,14 +11,8 @@
 - Sql
 - Pandas
 - Numpy
-- PyTorch
 - Aiogram
 ---
-
-### My best pet-projects
- - 
- - 
- -
  
  ---
  ### Links
