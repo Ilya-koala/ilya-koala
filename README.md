@@ -6,6 +6,9 @@
 ### Welcome to my gihub account!
 ![Alt Text](https://media2.giphy.com/media/3o7TKMt1VVNkHV2PaE/200w.webp)
 ---
+### Stats 
+[![Stats](https://github-readme-stats.vercel.app/api?username=ilya-koala&show_icons=true&theme=jolly&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### My web stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
